@@ -18,11 +18,9 @@ I am a fullstack software engineer from Brazil
 ## Expertise
 [<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/angular-red?&style=for-the-badge&logo=angular&logoColor=white" />
+[<img align="left" alt="nodejs" src="https://img.shields.io/badge/angular-red?&style=for-the-badge&logo=angular&logoColor=white" />](https://angular.io/)
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/Java-red?&style=for-the-badge&logo=java&logoColor=white" />
-
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" />
+[<img align="left" alt="nodejs" src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <!--
 **ChristianGustavo/ChristianGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
