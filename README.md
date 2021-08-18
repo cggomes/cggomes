@@ -16,8 +16,7 @@ I am a fullstack software engineer from Brazil
 <br>
 
 ## Expertise
-[<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />]
-(https://nodejs.org/en/)
+[<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/angular-red?&style=for-the-badge&logo=angular&logoColor=white" />
 
