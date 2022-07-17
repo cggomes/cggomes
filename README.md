@@ -10,8 +10,6 @@ I am a fullstack software engineer from Brazil
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8985507/christian-gustavo)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Chris_Gus21)
-
 <br>
 <br>
 
