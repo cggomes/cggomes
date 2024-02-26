@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a fullstack software engineer from Brazil
+I am a software engineer from Brazil
 
 - 🔭 I’m currently working with Android, iOS with KMP (Kotlin Multiplatform).
 
